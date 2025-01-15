@@ -1,0 +1,27 @@
+name: backend
+description: A sample command-line application.
+version: 1.0.0
+# repository: https://github.com/my_org/my_repo
+
+environment:
+  sdk: ^3.0.3
+
+# Add regular dependencies here.
+dependencies:
+  # path: ^1.8.0
+
+  # Alfred
+  alfred: ^1.1.1
+
+  # Scraping
+  beautiful_soup_dart: ^0.3.0
+  dio: ^5.3.2
+
+  # YT
+  youtube_explode_dart: ^2.0.2
+
+dev_dependencies:
+  build_runner: ^2.4.11
+  build_web_compilers: ^4.0.10
+  lints: ^2.0.0
+  test: ^1.21.0
