@@ -63,7 +63,7 @@ dart run
 ```
 
 ## Project Status
-🚨 **This project is actively maintained, but contributions are welcome!** 🚨
+🚨 **This project is not actively maintained, but contributions are welcome!** 🚨
 
 ## License
 MIT License. See `LICENSE` for details.
